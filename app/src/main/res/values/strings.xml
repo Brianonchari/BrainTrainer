@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="go">GO</string>
+    <string name="_30s">30s</string>
+    <string name="_0_0">0/0</string>
+    <string name="_31_12">31 + 12</string>
+</resources>

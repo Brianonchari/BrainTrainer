@@ -105,7 +105,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onTick(long millisUntilFinished) {
                 timerTextView.setText(String.valueOf(millisUntilFinished / 1000));
-
             }
 
             @Override
